@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Curious_karan</h1>
+<h1 align="center">Hi 👋, I'm Karan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 - 🌱 I’m currently learning **TypeScript, Functional Programming**
 
 - 📝 I write articles on [https://curiouskaran.netlify.app/](https://curiouskaran.netlify.app/)
 
-- 💬 Ask me about **react,JS**
+- 💬 Ask me about **reactJS,JS**
 
 - 📫 How to reach me **01karan95@gmail.com**
 
