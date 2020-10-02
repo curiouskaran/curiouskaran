@@ -5,11 +5,11 @@
 
 - 📝 I write articles on [https://curiouskaran.netlify.app/](https://curiouskaran.netlify.app/)
 
-- 💬 Ask me about **reactJS,JS**
+- 💬 Ask me about **reactJS, JS**
 
 - 📫 How to reach me **01karan95@gmail.com**
 
-- ⚡ Fun fact **I think about saving the world**
+- ⚡ Fun fact **Atwood's Law: “Any application that can be written in JavaScript, will eventually be written in JavaScript.”**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
