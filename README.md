@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karan Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **TypeScript, Functional Programming, Flutter.**
+- 🌱 I’m currently learning **TypeScript, Functional Programming and Flutter.**
 
 - 📝 I write articles on [https://curiouskaran.netlify.app/](https://curiouskaran.netlify.app/)
 
