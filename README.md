@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Functional Programming and Flutter.**
 
-- 📝 I write articles on [https://curiouskaran.netlify.app/](https://curiouskaran.netlify.app/)
+- 📝 I write articles on [https://curiouskaran.netlify.app/](https://curiouskaran.netlify.app/), [https://medium.com/@curiouskarandev](https://medium.com/@curiouskarandev)
 
 - ⚡ Fun fact **Atwood's Law: “Any application that can be written in JavaScript, will eventually be written in JavaScript.”**
 
