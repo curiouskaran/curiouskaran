@@ -30,7 +30,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://cursor.sh/" target="_blank">
-    <img src="https://cursor.sh/brand/icon.svg" alt="cursor" width="40" height="40"/>
+    <img src="https://www.cursor.com/_next/static/media/placeholder-logo.737626f1.webp" alt="cursor" width="40" height="40"/>
   </a>
   <a href="https://github.com/features/copilot" target="_blank">
     <img src="https://github.githubassets.com/images/modules/site/copilot/copilot.png" alt="copilot" width="40" height="40"/>
